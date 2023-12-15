@@ -56,10 +56,13 @@ Update Hostapd Default File:  <br/>
 <img src="https://i.imgur.com/K8QphcY.png?1" height="80%" width="80%" alt="Task 6"/>
 <br /><img src="https://i.imgur.com/0tl6iBr.png?1" height="80%" width="80%" alt="Task 6"/>
 <br />
-Start Services: <img src="https://i.imgur.com/KS69HDn.png?1" height="80%" width="80%" alt="Task 7"/>
+Start Services:  <br/> 
+  <img src="https://i.imgur.com/KS69HDn.png?1" height="80%" width="80%" alt="Task 7"/>
 <br /><img src="https://i.imgur.com/KS69HDn.png?1" height="80%" width="80%" alt="Task 7"/><br />
-Make Services Start Whenever you boot system: <img src="https://i.imgur.com/tt8x9ax.png?1" height="80%" width="80%" alt="Task 7"/><br />
-Reboot Your Raspberrypi: <img src="https://i.imgur.com/VGNreAC.png?1" height="80%" width="80%" alt="Task 7"/> <br />
-SSID Confirmation: <img src="https://i.imgur.com/j7jiIxH.png?1" height="80%" width="80%" alt="Task 7"/> <br />
-  
-</p>
+Make Services Start Whenever you boot system:  <br/>
+  <img src="https://i.imgur.com/tt8x9ax.png?1" height="80%" width="80%" alt="Task 7"/><br />
+Reboot Your Raspberrypi:  <br/> 
+  <img src="https://i.imgur.com/VGNreAC.png?1" height="80%" width="80%" alt="Task 7"/> <br />
+SSID Confirmation:  <br/> 
+  <img src="https://i.imgur.com/j7jiIxH.png?1" height="80%" width="80%" alt="Task 7"/> <br />
+  </p>
