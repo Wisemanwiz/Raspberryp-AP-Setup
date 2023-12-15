@@ -19,42 +19,47 @@ I hope this summary accurately captures the steps you took in your project!
 
 <h2>Resources Provided</h2>
 
-- <b>CISA Alerts on Spring4shell Zero-day vulnerability</b> 
-- <b>CVE Advisory on Spring4shell Zero-day vulnerability</b>
-- <b>Affected Infrastructure list and firewall logs</b>
-- <b>Incident Notification Template Email</b>
+- <b>Raspberrypi 4B (Hardware)</b> 
+- <b>Micro SD Card (32GB)</b>
+- <b>Ethernet Cable</b>
+- <b>ISP Router</b>
 
 <h2>Environments Used </h2>
 
-- <b>Testra Corporation </b>
+- <b>Home </b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Instructions For Task: <br/>
-<img src="https://i.imgur.com/ibxIoEz.png?2" height="80%" width="80%" alt="Task 1"/>
+Running Update And Upgrade On Raspberrypi: <br/>
+<img src="https://i.imgur.com/6PBOt3w.png?1" height="80%" width="80%" alt="Task 1"/>
 <br />
 <br />
-General Information About Task:  <br/>
-<img src="https://i.imgur.com/6fyI1N1.png?1" height="80%" width="80%" alt="Task 2"/>
+Installing Hostapd And Dnsmasq:  <br/>
+<img src="https://i.imgur.com/foZLTTV.png?1" height="80%" width="80%" alt="Task 2"/>
 <br />
 <br />
-Here Is Your Task: <br/>
-<img src="https://i.imgur.com/VCY99jg.png" height="80%" width="80%" alt="Task 3"/>
+Configure Dnsmasq: <br/>
+<img src="https://i.imgur.com/QMvnlxD.png?1" height="80%" width="80%" alt="Task 3"/>
+<br /><img src="https://i.imgur.com/7anwbNH.png?1" height="80%" width="80%" alt="Task 3"/>
+<br />
+Install Dhcpcd And Configure Static Ip for Wlan:  <br/>
+<img src="https://i.imgur.com/drdnU2L.png?1" height="80%" width="80%" alt="Task 4"/>
+<br /><img src="https://i.imgur.com/RzuJKXd.png?1" height="80%" width="80%" alt="Task 4"/>
 <br />
 <br />
-Firewall Dashboard:  <br/>
-<img src="https://i.imgur.com/p8FAkU7.png?1" height="80%" width="80%" alt="Task 4"/>
+Configure Hostapd:  <br/>
+<img src="https://i.imgur.com/DnlKKCq.png?1" height="80%" width="80%" alt="Task 5"/>
+<br /><img src="https://i.imgur.com/Lt0Oefi.png?1" height="80%" width="80%" alt="Task 5"/>
 <br />
+Update Hostapd Default File:  <br/>
+<img src="https://i.imgur.com/K8QphcY.png?1" height="80%" width="80%" alt="Task 6"/>
+<br /><img src="https://i.imgur.com/0tl6iBr.png?1" height="80%" width="80%" alt="Task 6"/>
 <br />
-Firewall Infrastructure:  <br/>
-<img src="https://i.imgur.com/1sesQ9P.png?1" height="80%" width="80%" alt="Task 5"/>
-<br />
-<br />
-Analyzing Firewall logs:  <br/>
-<img src="https://i.imgur.com/hG9xPeh.png?1" height="80%" width="80%" alt="Task 6"/>
-<br />
-<br />
-Task Solution:  <br/>
-<img src="https://i.imgur.com/y4BZXyl.png?1" height="80%" width="80%" alt="Task 7"/>
+Start Services: <img src="https://i.imgur.com/KS69HDn.png?1" height="80%" width="80%" alt="Task 7"/>
+<br /><img src="https://i.imgur.com/KS69HDn.png?1" height="80%" width="80%" alt="Task 7"/>
+Make Services Start Whenever you boot system: <img src="https://i.imgur.com/tt8x9ax.png?1" height="80%" width="80%" alt="Task 7"/><br />
+Reboot Your Raspberrypi: <img src="https://i.imgur.com/VGNreAC.png?1" height="80%" width="80%" alt="Task 7"/> <br />
+SSID Confirmation: <img src="https://i.imgur.com/j7jiIxH.png?1" height="80%" width="80%" alt="Task 7"/> <br />
+  
 </p>
