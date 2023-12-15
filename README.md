@@ -14,7 +14,7 @@ To start the services, I first unmasked Hostapd, thereby removing any restrictio
 
 The entire process was completed by rebooting the Raspberry Pi to ensure all changes took effect.
 
-I hope this summary accurately captures the steps you took in your project! 
+I hope this summary accurately captures the steps you will take in your project! 
 
 
 <h2>Resources Provided</h2>
