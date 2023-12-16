@@ -39,18 +39,18 @@ Installing Hostapd And Dnsmasq:  <br/>
 <img src="https://i.imgur.com/foZLTTV.png?1" height="80%" width="80%" alt="Task 2"/>
 <br />
 <br />
-Configure Dnsmasq: <br/>
-<img src="https://i.imgur.com/QMvnlxD.png?1" height="80%" width="80%" alt="Task 3"/>
-<br /><img src="https://i.imgur.com/7anwbNH.png?1" height="80%" width="80%" alt="Task 3"/>
+Configure Hostapd: <br/>
+<img src="https://i.imgur.com/DnlKKCq.png?1" height="80%" width="80%" alt="Task 5"/>
+<br /><img src="https://i.imgur.com/Lt0Oefi.png?1" height="80%" width="80%" alt="Task 5"/>
 <br />
 Install Dhcpcd And Configure Static Ip for Wlan:  <br/>
 <img src="https://i.imgur.com/drdnU2L.png?1" height="80%" width="80%" alt="Task 4"/>
 <br /><img src="https://i.imgur.com/RzuJKXd.png?1" height="80%" width="80%" alt="Task 4"/>
 <br />
 <br />
-Configure Hostapd:  <br/>
-<img src="https://i.imgur.com/DnlKKCq.png?1" height="80%" width="80%" alt="Task 5"/>
-<br /><img src="https://i.imgur.com/Lt0Oefi.png?1" height="80%" width="80%" alt="Task 5"/>
+Configure Dnsmasq:  <br/>
+<img src="https://i.imgur.com/QMvnlxD.png?1" height="80%" width="80%" alt="Task 3"/>
+<br /><img src="https://i.imgur.com/7anwbNH.png?1" height="80%" width="80%" alt="Task 3"/>
 <br />
 Update Hostapd Default File:  <br/>
 <img src="https://i.imgur.com/K8QphcY.png?1" height="80%" width="80%" alt="Task 6"/>
