@@ -51,18 +51,18 @@ Configure Dnsmasq:  <br/>
 <img src="https://i.imgur.com/QMvnlxD.png?1" height="80%" width="80%" alt="Task 3"/>
 <br /><img src="https://i.imgur.com/7anwbNH.png?1" height="80%" width="80%" alt="Task 3"/>
 <br />
-
-Install Dhcpcd And Configure Static Ip for Wlan:  <br/>
+Install Dhcpcd And Configure Static Ip for Wlan: <br/>
 <img src="https://i.imgur.com/drdnU2L.png?1" height="80%" width="80%" alt="Task 4"/>
 <br /><img src="https://i.imgur.com/RzuJKXd.png?1" height="80%" width="80%" alt="Task 4"/>
 <br />
 Start Services:  <br/> 
-  <img src="https://i.imgur.com/KS69HDn.png?1" height="80%" width="80%" alt="Task 7"/>
-<br /><img src="https://i.imgur.com/KS69HDn.png?1" height="80%" width="80%" alt="Task 7"/><br />
+<img src="https://i.imgur.com/KS69HDn.png?1" height="80%" width="80%" alt="Task 7"/>
+<br /><img src="https://i.imgur.com/KS69HDn.png?1" height="80%" width="80%" alt="Task 7"/>
+<br />
 Make Services Start Whenever you boot system:  <br/>
-  <img src="https://i.imgur.com/tt8x9ax.png?1" height="80%" width="80%" alt="Task 7"/><br />
+<img src="https://i.imgur.com/tt8x9ax.png?1" height="80%" width="80%" alt="Task 7"/><br />
 Reboot Your Raspberrypi:  <br/> 
-  <img src="https://i.imgur.com/VGNreAC.png?1" height="80%" width="80%" alt="Task 7"/> <br />
+<img src="https://i.imgur.com/VGNreAC.png?1" height="80%" width="80%" alt="Task 7"/> <br />
 SSID Confirmation:  <br/> 
-  <img src="https://i.imgur.com/j7jiIxH.png?1" height="80%" width="80%" alt="Task 7"/> <br />
+<img src="https://i.imgur.com/j7jiIxH.png?1" height="80%" width="80%" alt="Task 7"/> <br />
   </p>
